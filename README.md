@@ -11,8 +11,8 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-blue?logo=tailwindcss)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict%20Typing-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-ORM-green?logo=prisma)](https://www.prisma.io/)
-[![GitHub stars](https://img.shields.io/github/stars/leos0509/project-management?style=social)](https://github.com/your-username/wroks)
-[![GitHub forks](https://img.shields.io/github/forks/leos0509/project-management?style=social)](https://github.com/your-username/wroks/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/leos0509/wroks-v0?style=social)](https://github.com/leos0509/wroks-v0)
+[![GitHub forks](https://img.shields.io/github/forks/leos0509/wroks-v0?style=social)](https://github.com/leos0509/wroks-v0/network/members)
 
 ## 🚀 Introduction
 WROKS is a **modern project management application** designed to help teams collaborate efficiently, manage tasks, and track progress seamlessly. Inspired by tools like Trello and Jira, WROKS combines **Next.js, Node.js, PostgreSQL (NeonDB), Redux, and Prisma** to deliver a robust and scalable experience.
